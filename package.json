@@ -44,7 +44,7 @@
   "devDependencies": {
     "@greymass/abi2core": "^1.1.0",
     "@greymass/eosio": "^0.5.5",
-    "@proton/js": "^26.1.2",
+    "@proton/js": "^27.9.3",
     "@proton/vert": "^0.3.20",
     "@types/chai": "^4.3.0",
     "@types/mocha": "^9.1.0",
